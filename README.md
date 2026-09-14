@@ -1,8 +1,5 @@
 # Smart-Emergency-Door-Release-System
 Arduino-based emergency door release system using temperature detection 
-# Smart Emergency Door Release System
-
-An Arduino-based emergency door release system using temperature detection and manual emergency activation.
 
 ## Project Overview
 
